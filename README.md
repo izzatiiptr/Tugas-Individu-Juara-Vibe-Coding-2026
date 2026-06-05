@@ -1,8 +1,7 @@
-
-```markdown
 ## 👤 Identitas
 * **Nama:** Izzati Kamila Putri
 * **NPM:** 24083010059
+
 ---
 
 # ❤️ SENADI 
@@ -48,5 +47,3 @@ SENADI tidak hanya sebatas alat teknologi, melainkan sebuah ekosistem yang memba
 * **[ I ] Independensi:** Mengubah peran murid pasif menjadi kreator proaktif.
 * **[ B ] Berdaya:** Memberdayakan guru untuk lebih fokus mendampingi daripada sekadar menilai manual.
 * **[ E ] Empati:** Menghapus stigma dan mengubah ruang BK menjadi sahabat sejati siswa.
-
-```
